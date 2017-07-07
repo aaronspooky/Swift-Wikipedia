@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		EF246F291F0F048A004498DB /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF246F281F0F048A004498DB /* DetailViewController.swift */; };
 		EFDDD3B91F0FEE88006DE691 /* PresidentList.plist in Resources */ = {isa = PBXBuildFile; fileRef = EFDDD3B81F0FEE88006DE691 /* PresidentList.plist */; };
+		EFDDD3BB1F100902006DE691 /* LanguagueListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFDDD3BA1F100902006DE691 /* LanguagueListController.swift */; };
 		EFF328191F0EF7FC00E5E09C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EFF328181F0EF7FC00E5E09C /* AppDelegate.swift */; };
 		EFF3281E1F0EF7FD00E5E09C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EFF3281C1F0EF7FD00E5E09C /* Main.storyboard */; };
 		EFF328201F0EF7FD00E5E09C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EFF3281F1F0EF7FD00E5E09C /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		EF246F281F0F048A004498DB /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		EFDDD3B81F0FEE88006DE691 /* PresidentList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PresidentList.plist; path = "../../../../Downloads/beg-iphone-dev-w-swift-3-master/11_AllSource/11 - Presidents Data/PresidentList.plist"; sourceTree = "<group>"; };
+		EFDDD3BA1F100902006DE691 /* LanguagueListController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LanguagueListController.swift; sourceTree = "<group>"; };
 		EFF328151F0EF7FC00E5E09C /* President.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = President.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EFF328181F0EF7FC00E5E09C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EFF3281D1F0EF7FD00E5E09C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				EFF328181F0EF7FC00E5E09C /* AppDelegate.swift */,
 				EFF3282A1F0EFF1F00E5E09C /* MasterViewController.swift */,
 				EF246F281F0F048A004498DB /* DetailViewController.swift */,
+				EFDDD3BA1F100902006DE691 /* LanguagueListController.swift */,
 				EFF3281F1F0EF7FD00E5E09C /* Assets.xcassets */,
 				EFF328211F0EF7FD00E5E09C /* LaunchScreen.storyboard */,
 				EFF3281C1F0EF7FD00E5E09C /* Main.storyboard */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF246F291F0F048A004498DB /* DetailViewController.swift in Sources */,
+				EFDDD3BB1F100902006DE691 /* LanguagueListController.swift in Sources */,
 				EFF328191F0EF7FC00E5E09C /* AppDelegate.swift in Sources */,
 				EFF3282B1F0EFF1F00E5E09C /* MasterViewController.swift in Sources */,
 			);
